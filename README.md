@@ -1,2 +1,2 @@
 This is a basic front end portfolio project with html,css and javascript.
-and which different sections are imcluded.
+and which contains different sections like About me,Contact Me and my resume details.
